@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="json-simple-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib/javafx-sdk-20/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/javafx-sdk-20/lib" recursive="false" />
+  </library>
+</component>
